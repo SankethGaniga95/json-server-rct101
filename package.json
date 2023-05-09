@@ -1,0 +1,24 @@
+{
+  "name": "json-server-rct101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SankethGaniga95/json-server-rct101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SankethGaniga95/json-server-rct101/issues"
+  },
+  "homepage": "https://github.com/SankethGaniga95/json-server-rct101#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
