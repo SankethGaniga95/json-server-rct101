@@ -139,5 +139,23 @@
         
       }
       
+    ],
+    "lectures":[
+      {"id": 1,
+        "title": "Class 11",
+        "entrance": "JEE-(MAIN+ADVANCE)",
+        "image": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGh5c2ljcyUyMGNsYXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "ZENITH PROGRAM (TWO YEAR JEE-ADVANCED + OLYMPIADS)",
+        "details": " This course is designed to support the student for board syllabus as well as competitive examinations.Learn from highly qualified faculty (mostly IIT-ians) that excel at competitive exam preparation.Regular Topic Wise Tests (TWTs) are conducted (Online/ Offline) to ensure that the students have fundamentally understood the topic well and the conceptual knowledge of the topic is developed.Major test with cumulative portion is taken periodically to give students a real-time understanding of the difficulty level, time management, the diverse set of questions and patterns and also ranking at an All India level on JEE Main/CET.Online tests are given so that students get real-time exposure from the very beginning.All India Test Series (AITS) is a series of full-length tests conducted after course completion to give the student immense practice for the JEE Main and also to know their national-level performance and All India Rank across all PACE centers.Regular feedback is taken from the students to identify actions to be taken to improve & enhance their performance.A detailed analysis report is given post every test.Our faculty is a team of highly experienced and reputed IIT-ians and top academicians from their respective fields who excel at competitive exam preparation.Duration of lectures 18 hours per week.Separate Olympiad batches are formed after course commencement and specific lectures for Physics / Chemistry / Biology / Astronomy and KVPY are conducted.",
+        "rating": "4.5",
+        "price": "10000",
+        "time": "500",
+        "lectures": [
+          "https://www.youtube.com/watch?v=2PUdWk7uFqA",
+          "https://www.youtube.com/watch?v=Ewx1bo3Vyzg&list=PLbu_fGT0MPsuUzCT6BZvto0hkcA3dEigi&index=1",
+          "https://www.youtube.com/watch?v=15ygVBZitso&list=PLbu_fGT0MPsuT9pmkl2RuowDlIQ0OXI0l"
+        ]
+      }
+
     ]
   }
