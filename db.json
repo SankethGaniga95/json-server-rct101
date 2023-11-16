@@ -141,7 +141,7 @@
       
     ],
     "lectures":[
-      {"id": 1,
+      [{"id": 1,
         "title": "Class 11",
         "entrance": "JEE-(MAIN+ADVANCE)",
         "image": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGh5c2ljcyUyMGNsYXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
@@ -156,6 +156,7 @@
           "https://www.youtube.com/watch?v=15ygVBZitso&list=PLbu_fGT0MPsuT9pmkl2RuowDlIQ0OXI0l"
         ]
       }
+    ]
 
     ]
   }
